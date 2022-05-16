@@ -1,0 +1,10 @@
+img{
+    width:120px;
+    height:150px;
+}
+
+.outline{
+    display:inline-block;
+    padding-left:50px;
+    padding-top:50px;
+}
